@@ -136,7 +136,7 @@ Works
     cursor: pointer;
     width: 640px;
     max-height: 417px;
-    transform: all 0.3s;
+    transition: all 0.3s;
 }
 
 #works ul li img:hover {
